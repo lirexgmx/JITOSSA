@@ -23,7 +23,7 @@ global.wm = 'ABDO';
 global.titulowm = 'GANARA';
 global.titulowm2 = `GANARA`
 global.igfg = 'GANARA';
-global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *متابعة للمطور في إنستجرام* \n*_instagram.com/ovmar_1_*';
+global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *متابعة للمطور في إنستجرام* \n*https://www.instagram.com/abdeesamad?igsh=djltdzY4Y3JoemNw*';
 global.waitt = '> سوف أجيب عن سؤالك بعد قليل ...';
 global.waittt = '> سوف يتم رسم صورتك بعد قليل ...';
 global.rwait = '⏳';
@@ -50,8 +50,8 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nGANARA`;
 global.gt = 'GANARA';
 global.mysticbot = 'GANARA';
-global.md = 'https://instagram.com/ovmar_1';
-global.mysticbot = 'https://instagram.com/ovmar_1';
+global.md = 'https://www.instagram.com/abdeesamad?igsh=djltdzY4Y3JoemNw';
+global.mysticbot = 'https://www.instagram.com/abdeesamad?igsh=djltdzY4Y3JoemNw';
 global.nomorown = '212716407654';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
